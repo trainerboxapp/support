@@ -8,7 +8,8 @@
 <body style="font-family: sans-serif; max-width: 600px; margin: auto; padding: 2rem;">
   <h1>TrainerBox Support</h1>
   <p>
-    Thank you for using <strong>TrainerBox</strong>.  
+    Thank you for using <strong>TrainerBox</strong>. 
+    This is our provisional support page while we keep building our website
     If you need help, please contact us:
   </p>
   <ul>
