@@ -9,8 +9,8 @@
   <h1>TrainerBox Support</h1>
   <p>
     Thank you for using <strong>TrainerBox</strong>. 
-    This is our provisional support page while we keep building our website
-    If you need help, please contact us:
+    This is our provisional support page while we keep building our website,
+    if you need help, please contact us:
   </p>
   <ul>
     <li>Email: <a href="mailto:trainerbox@trainerboxapp.com">trainerbox@trainerboxapp.com</a></li>
