@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>TrainerBox Support</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="font-family: sans-serif; max-width: 600px; margin: auto; padding: 2rem;">
